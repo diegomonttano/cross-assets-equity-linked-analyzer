@@ -94,7 +94,7 @@ basket-analyzer/
 
 ## Contexto Profesional
 
-Este proyecto es una pieza clave de mi contribución actual en **Capital Driver Asset Management**, donde lidero la estrategia de inversiones en mercados globales y soluciones de cartera multiactivos (cross-assets). La herramienta ha sido utilizada internamente para:
+Este proyecto es una pieza clave de mi contribución actual en **Capital Driver Asset Management**, donde veo la estrategia de inversiones en mercados globales y soluciones de cartera multiactivos (cross-assets). La herramienta ha sido utilizada internamente para:
 
 - Seleccionar y optimizar notas estructuradas equity-linked
 - Incrementar el rendimiento ajustado al riesgo de la cartera (>6% en cupones)
@@ -120,7 +120,7 @@ Este proyecto es de uso privado/académico y profesional. Si deseas utilizarlo e
 ---
 
 **¡Gracias por visitar el repositorio!**  
-Si trabajas en asset management, derivados o notas estructuradas, no dudes en dar una estrella ⭐ y contactarme. Estoy abierto a colaboraciones en proyectos de finanzas cuantitativas y optimización de portafolios cross-assets.
+Si trabajas en asset management, derivados o notas estructuradas, no dudes en dar una estrella y contactarme. Estoy abierto a colaboraciones en proyectos de finanzas cuantitativas y optimización de portafolios cross-assets.
 
 *Diego Montano — Marzo 2026*
 ```
